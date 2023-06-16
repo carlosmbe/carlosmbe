@@ -64,15 +64,10 @@ Still Looking
 <em><samp>Scroll down to check out my projects!</samp></em>
 </td>
 
-<td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api?username=carlosmbe&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=carlosmbe&count_private=true&hide_border=true&title_color=008EEB&icon_color=008EEB&show_icons=true">
-</a>
-</td>
   
-<td colspan="2" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmbe&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmbe&langs_count=8&layout=compact&hide_border=true&title_color=FF5600">
+<td colspan="4" rowspan="2">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmbe&langs_count=8&layout=compact&hide_border=true&title_color=FF5600&theme=tokyonigh">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmbe&langs_count=8&layout=compact&hide_border=true&title_color=FF5600&theme=tokyonight">
 </a>
 </td>
 
