@@ -79,13 +79,15 @@ Still Looking
 </tr>
 
 <tr>
-<td colspan="3">
+<td colspan="4">
   <a href="https://carlosmbe.medium.com">
-<img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/master/Assets/Medium.svg" width="40">
+<img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/Medium.svg" width="40">
 <a href="https://www.linkedin.com/in/carlos-mbendera-9376aa264/">
-<img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/master/Assets/LinkedIn.svg" width="40">
+<img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/LinkedIn.svg" width="40">
 <a href="mailto:[carlosmbendera@ku.edu]">
-<img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/master/Assets/Email.svg" width="40">
+<img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/Email.svg" width="40">
+    <a href="https://www.youtube.com/@mugenrad">
+<img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/YouTube.svg" width="40">
 </a>
 </td>
 
