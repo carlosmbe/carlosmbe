@@ -16,7 +16,7 @@
 
 <tr>
 <td colspan="2">
-<a href="[https://github.com/specify/specify7]">Specify 7</a>, A Collection Management Software to rule them all.
+<a href="https://github.com/specify/specify7">Specify 7</a>, A Collection Management Software to rule them all.
 </td>
 <td colspan="2">
 Web Development
@@ -31,7 +31,7 @@ Mairimashita! Iruma-kun
 
 <tr>
 <td colspan="2">
-<a href="[https://github.com/carlosmbe/Mugen_Reader_V2]">Mugen Reader</a>, Need to finish reading 21st Century Boys in Style.
+<a href="https://github.com/carlosmbe/Mugen_Reader_V2">Mugen Reader</a>, Need to finish reading 21st Century Boys in Style.
 </td>
 <td colspan="2">
 SwiftUI
@@ -46,7 +46,7 @@ Jujutsu Kaisen
 
 <tr>
 <td colspan="2">
-<a href="[https://github.com/carlosmbe/AFStudy3]">Study 3</a>, A research project aimed at exploring the potential of an AI chatbot as an attachment figure and its impact on reducing user loneliness.
+<a href="https://github.com/carlosmbe/AFStudy3">A.I. as a Relationship Partner Study 3</a>, A research project aimed at exploring the potential of an AI chatbot as an attachment figure and its impact on reducing user loneliness.
 </td>
 <td colspan="2">
 Mobile Development
@@ -80,13 +80,17 @@ Still Looking
 
 <tr>
 <td colspan="4">
+  
   <a href="https://carlosmbe.medium.com">
 <img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/Medium.svg" width="40">
+    
 <a href="https://www.linkedin.com/in/carlos-mbendera-9376aa264/">
 <img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/LinkedIn.svg" width="40">
+  
 <a href="mailto:[carlosmbendera@ku.edu]">
 <img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/Email.svg" width="40">
-    <a href="https://www.youtube.com/@mugenrad">
+  
+<a href="https://www.youtube.com/@mugenrad">
 <img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/YouTube.svg" width="40">
 </a>
 </td>
