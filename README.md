@@ -1,3 +1,5 @@
+<a href="https://Github.com/carlosmbe"><img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/master/Assets/Banner.png" alt="Link to Twitter (@aheze0)"></a>
+
 <table>
 <tr>
 <td colspan="2">
@@ -22,7 +24,7 @@
 Web Development
 </td>
 <td colspan="2">
-Learning Full-Stack Development
+Play Stairway To Heaven in public
 </td>
 <td colspan="2">
 Mairimashita! Iruma-kun
@@ -37,7 +39,7 @@ Mairimashita! Iruma-kun
 SwiftUI
 </td>
 <td colspan="2">
-Learning to Draw
+Learn to Draw
 </td>
 <td colspan="2">
 Jujutsu Kaisen
@@ -82,7 +84,7 @@ Suupaa no Ura de Yani Suu Hanashi
 <a href="https://www.linkedin.com/in/carlos-mbendera-9376aa264/">
 <img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/LinkedIn.svg" width="40">
   
-<a href="mailto:[carlosmbendera@ku.edu]">
+<a href="mailto:carlosmbendera@ku.edu">
 <img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/Email.svg" width="40">
   
 </a>
