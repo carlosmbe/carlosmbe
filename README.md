@@ -55,7 +55,7 @@ Mobile Development
 Write some music
 </td>
 <td colspan="2">
-Still Looking
+Suupaa no Ura de Yani Suu Hanashi
 </td>
 </tr>
 
