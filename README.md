@@ -68,8 +68,8 @@ Suupaa no Ura de Yani Suu Hanashi
 
   
 <td colspan="4" rowspan="2">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmbe&langs_count=8&layout=compact&hide_border=true&title_color=FF5600&theme=tokyonigh">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmbe&langs_count=8&layout=compact&hide_border=true&title_color=FF5600&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmbe&layout=compact&hide_border=true&title_color=FF5600&theme=tokyonigh">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmbe&layout=compact&hide_border=true&title_color=FF5600&theme=tokyonight">
 </a>
 </td>
 
