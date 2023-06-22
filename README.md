@@ -51,7 +51,7 @@ Jujutsu Kaisen
 <a href="https://github.com/carlosmbe/AFStudy3">A.I. as a Relationship Partner Study 3</a>, A research project aimed at exploring the potential of an AI chatbot as an attachment figure and its impact on reducing user loneliness.
 </td>
 <td colspan="2">
-Mobile Development
+ML Model Development
 </td>
 <td colspan="2">
 Write some music
