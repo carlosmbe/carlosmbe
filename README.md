@@ -24,7 +24,7 @@
 Web Development
 </td>
 <td colspan="2">
-Play Stairway To Heaven in public
+Host an interesting Radio Show Special
 </td>
 <td colspan="2">
 Mairimashita! Iruma-kun
@@ -48,7 +48,7 @@ Jujutsu Kaisen
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/carlosmbe/AFStudy3">(PRIVATE REPO) A.I. as a Relationship Partner Study 3</a>, A research project aimed at exploring the potential of an AI chatbot as an attachment figure and its impact on reducing user loneliness.
+<a href="https://github.com/carlosmbe/AFStudy3">A.I. as a Relationship Partner Study 3</a>, A research project aimed at exploring the potential of an AI chatbot as an attachment figure and its impact on reducing user loneliness.
 </td>
 <td colspan="2">
 ML Model Development
