@@ -18,10 +18,10 @@
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/specify/specify7">Specify 7</a>, A Collection Management Software to rule them all.
+<a href="https://github.com/carlosmbe/carlosmbe">Super Secret WWDC24 SSC Project</a>, It's really cool.
 </td>
 <td colspan="2">
-Web Development
+Multi Media On Device AI Models
 </td>
 <td colspan="2">
 Host an interesting Radio Show Special
