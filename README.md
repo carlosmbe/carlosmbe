@@ -18,10 +18,10 @@
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/carlosmbe/carlosmbe">Super Secret WWDC24 SSC Project</a>, It's really cool.
+<a href="https://github.com/carlosmbe/Better-Talk.swiftpm">Better Talk</a>, WWDC24 Swift Student Challenge
 </td>
 <td colspan="2">
-Multi Media On Device AI Models
+On Device Speech Analysis
 </td>
 <td colspan="2">
 Host an interesting Radio Show Special
@@ -33,10 +33,10 @@ Mairimashita! Iruma-kun
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/carlosmbe/Mugen_Reader_V2">Mugen Reader</a>, Need to finish reading 21st Century Boys in Style.
+<a href="https://github.com/carlosmbe/Mugen_Reader_V2">Mugen Reader</a>, Need to finish reading my backlog in Style.
 </td>
 <td colspan="2">
-SwiftUI
+VisionOS Development
 </td>
 <td colspan="2">
 Learn to Draw
@@ -57,7 +57,7 @@ ML Model Development
 Write some music
 </td>
 <td colspan="2">
-Suupaa no Ura de Yani Suu Hanashi
+Solo Leveling
 </td>
 </tr>
 
