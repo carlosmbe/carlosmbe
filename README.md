@@ -33,10 +33,10 @@ Mairimashita! Iruma-kun
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/carlosmbe/Mugen_Reader_V2">Mugen Reader</a>, Need to finish reading my backlog in Style.
+<a href="https://github.com/carlosmbe/Home-Radio">Home Radio</a>, A Mac app designed to make hosting a radio show more accessible to more people
 </td>
 <td colspan="2">
-VisionOS Development
+Audio Processing 
 </td>
 <td colspan="2">
 Learn to Draw
@@ -57,7 +57,7 @@ ML Model Development
 Write some music
 </td>
 <td colspan="2">
-Solo Leveling
+Delicous in Dungeon
 </td>
 </tr>
 
