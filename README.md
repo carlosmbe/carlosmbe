@@ -18,7 +18,7 @@
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/carlosmbe/Better-Talk.swiftpm">Better Talk</a>, WWDC24 Swift Student Challenge
+<a href="https://github.com/carlosmbe/Better-Talk.swiftpm">Better Talk</a>, Apple WWDC24 Swift Student Challenge
 </td>
 <td colspan="2">
 On Device Speech Analysis
@@ -33,10 +33,10 @@ Mairimashita! Iruma-kun
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/carlosmbe/Home-Radio">Home Radio</a>, A Mac app designed to make hosting a radio show more accessible to more people
+<a href="https://github.com/carlosmbe/Rhythm-Snap">Rhythm Snap</a>, Winning Apple WWDC23 Swift Student Challenge project
 </td>
 <td colspan="2">
-Audio Processing 
+Computer Graphics 
 </td>
 <td colspan="2">
 Learn to Draw
@@ -57,7 +57,7 @@ ML Model Development
 Write some music
 </td>
 <td colspan="2">
-Delicous in Dungeon
+Frieren
 </td>
 </tr>
 
