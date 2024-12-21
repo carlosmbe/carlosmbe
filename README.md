@@ -18,31 +18,31 @@
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/carlosmbe/Better-Talk.swiftpm">Better Talk</a>, Apple WWDC24 Swift Student Challenge
+<a href="https://github.com/carlosmbe/Better-Talk.swiftpm">Better Talk</a>, App providing feedback on public speaking.
 </td>
 <td colspan="2">
 On Device Speech Analysis
 </td>
 <td colspan="2">
-Host an interesting Radio Show Special
+Radio Show Hosting @Bff.fm
 </td>
 <td colspan="2">
-Mairimashita! Iruma-kun
+Monogatari
 </td>
 </tr>
 
 <tr>
 <td colspan="2">
-<a href="https://github.com/carlosmbe/Rhythm-Snap">Rhythm Snap</a>, Winning Apple WWDC23 Swift Student Challenge project
+**Private Projects** 3D Rendering Pipelines with Metal and Open GL.
 </td>
 <td colspan="2">
 Computer Graphics 
 </td>
 <td colspan="2">
-Learn to Draw
+User Interface Design
 </td>
 <td colspan="2">
-Jujutsu Kaisen
+Chainsaw Man
 </td>
 </tr>
 
@@ -54,7 +54,7 @@ Jujutsu Kaisen
 ML Model Development
 </td>
 <td colspan="2">
-Write some music
+Music Composistion
 </td>
 <td colspan="2">
 Frieren
