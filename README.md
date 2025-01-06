@@ -33,7 +33,7 @@ Monogatari
 
 <tr>
 <td colspan="2">
-**Private Projects** 3D Rendering Pipelines with Metal and Open GL.
+3D Rendering Pipelines with <a href="https://github.com/carlosmbe/LearningMetal">Metal</a>  and Open GL.
 </td>
 <td colspan="2">
 Computer Graphics 
