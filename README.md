@@ -81,7 +81,7 @@ Frieren
   <a href="https://carlosmbe.medium.com">
 <img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/Medium.svg" width="40">
     
-<a href="https://www.linkedin.com/in/carlos-mbendera-9376aa264/">
+<a href="https://www.linkedin.com/in/carlosmbe/">
 <img src="https://raw.githubusercontent.com/carlosmbe/carlosmbe/main/Assets/LinkedIn.svg" width="40">
   
 <a href="mailto:carlosmbendera@ku.edu">
